@@ -1,7 +1,7 @@
 # The Odin Project - Project Tic Tac Toe
 
 ## <a href="https://notdroid.github.io/top-tic-tac-toe/">Live Preview</a><br>
-![image](https://github.com/notDroid/calculator/assets/127229451/330341a8-4f5c-4b8d-aa62-267a4b6e3779)
+![image](https://github.com/notDroid/top-tic-tac-toe/assets/127229451/a2b41c28-3a17-4199-ab6e-efad84f1a3e0)
 
 # _My Work_
 
